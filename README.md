@@ -15,4 +15,4 @@ NOTE: before running the app on you machine.
 - Create an account on OpenWeatherMap and generate your own API Key.
 - inside the projcet in Xcode, navigate to the "Controller" folder, then "ViewController.swift file", you will find a constant named "APIKey"
 - copy and paste your OpenWeatherMap Account API key inside the "APIKey" constant double quotes.
-![alt text](https://drive.google.com/open?id=1FeCwmhP3cMTgvxR2ZCRHTWhfhdvMgj6e)
+![alt text](https://drive.google.com/open?id=1FeCwmhP3cMTgvxR2ZCRHTWhfhdvMgj6e.png)
