@@ -8,4 +8,4 @@ the app talks with the OpenWeatherMap API (https://openweathermap.org/api) to gr
 
 According to Your Current Location it sends a request to the OpenWeatherMap API to grab your location weather data, then display it on the Screen.
 
-you can see the weather of a specific country, by going to the "changeCity" screen and typing the country name, and after pressing the "Get Weatherx" button you will get the typed country weather.
+you can see the weather of a specific country, by going to the "ChangeCity" screen and typing the country name, after pressing the "Get Weather" button you will get the typed country weather.
