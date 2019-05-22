@@ -19,7 +19,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate, changeCityNam
     @IBOutlet weak var cityLabel: UILabel!
     
     //Constants
-    let APIKey = "4bc4a623bee910fbb2f411399c8bb62e"
+    let APIKey = "Please put your own API Key Here!"        //create an account on https://openweathermap.org/api and create your own API Key, then copy and paste it insnide the two double quotes.
     let weatherURL = "http://api.openweathermap.org/data/2.5/weather"
     
     let weatherDataModel = WeatherDataModel()
